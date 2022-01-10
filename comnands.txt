@@ -1,0 +1,69 @@
+    1  openssl sha1 text.txt
+    2  openssl sha1 text.txt
+    3  openssl sha1 text.txt
+    4  bdsmlr.com
+    5  cd desktop
+    6  openssl sha1 text.txt
+    7  echo hello > text.txt
+    8  ls
+    9  text.txt
+   10  ls text.txt
+   11  dir
+   12  cd /
+   13  ls
+   14  ls
+   15  pwd
+   16  cd ~/Desktop
+   17  ls -l
+   18  hystory
+   19  history
+   20  git status
+   21  cd /
+   22  git status
+   23  ls
+   24  git init
+   25  git status
+   26  shutdown -s
+   27  exit
+   28  pwd
+   29  git init
+   30  ls -la
+   31  ls -a
+   32  ls -la
+   33  syss
+   34  ls -la
+   35  df -ah
+   36  git init
+   37  ls -la
+   38  date
+   39  cd c:
+   40  ls
+   41  cd workspace
+   42  ls
+   43  cd livro-receitas
+   44  ls
+   45  git status
+   46  mkdir receitas
+   47  ls
+   48  mv churrus.md receitas
+   49  ls
+   50  ls receitas
+   51  git status
+   52  clear
+   53  git status
+   54  git add churrus.md receitas/
+   55  ls
+   56  git status
+   57  git commit -m "cria pasta receitas, move arquivo para receitas"
+   58   git status
+   59  echo > README.md
+   60  ls
+   61  git status
+   62  ls
+   63  README.md
+   64  notepad README.md
+   65  git add *
+   66  git status
+   67  git commint -m "add index"
+   68  git commit -m "add index"
+   69  history > comnands.txt
